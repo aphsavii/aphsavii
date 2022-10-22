@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java/Android Devlopment**
 
-- ⚡ Fun fact : **I think I am an Introvert**
+- ⚡ Fun fact : **I wanna code future**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
