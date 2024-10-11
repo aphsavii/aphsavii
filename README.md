@@ -13,7 +13,7 @@
     <a href="https://twitter.com/aphs_aviii" target="blank"><img align="center"
             src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"
             alt="aphs_avi" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/aphsavii" target="blank"><img
+    <a href="https://www.linkedin.com/in/_avinashx" target="blank"><img
             align="center"
             src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"
             alt="https://www.linkedin.com/in/aphsavii" height="30" width="40" /></a>
