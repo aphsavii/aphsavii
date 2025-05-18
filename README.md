@@ -17,15 +17,7 @@
             align="center"
             src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"
             alt="https://www.linkedin.com/in/aphsavii" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/aphs_avii" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aphs_avii" height="30"
-            width="40" /></a>
-    <a href="https://www.hackerrank.com/aphs_avii" target="blank"><img align="center"
-            src="https://vectorwiki.com/images/gfcQJ__hackerrank.svg"
-            alt="aphs_avii" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/aphs_avii" target="blank"><img align="center"
-            src="https://iconape.com/wp-content/png_logo_vector/leetcode-logo-white-no-text.png"
-            alt="aphs_avii" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
